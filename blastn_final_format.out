@@ -1,0 +1,459 @@
+a_CLL1386_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	42	0	0	38	79	527422	527381	1e-012	77.0
+a_CLL1386_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	36	0	0	44	79	527015	526980	2e-009	66.2
+a_CLL1386_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.30	37	1	0	43	79	528609	528573	2e-008	62.6
+a_CLL1386_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.11	36	5	0	44	79	526399	526364	0.022	42.8
+a_CLL1386_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	42	0	0	38	79	106330465	106330424	1e-012	77.0
+a_CLL1386_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	36	0	0	44	79	106330058	106330023	2e-009	66.2
+a_CLL1386_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.30	37	1	0	43	79	106331652	106331616	2e-008	62.6
+a_CLL1386_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.11	36	5	0	44	79	106329442	106329407	0.022	42.8
+a_CLL1386_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346838	69346819	0.92	37.4
+a_CLL1386_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	20	0	0	44	63	18342914	18342895	0.92	37.4
+a_CLL1386_positive	Homo sapiens chromosome 6, GRCh37.p13 Primary Assembly	91.67	24	2	0	27	50	36077101	36077078	3.2	35.6
+a_CLL271_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	43	0	0	27	69	527423	527381	3e-013	78.8
+a_CLL271_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	36	0	0	34	69	527015	526980	2e-009	66.2
+a_CLL271_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.30	37	1	0	33	69	528609	528573	2e-008	62.6
+a_CLL271_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.11	36	5	0	34	69	526399	526364	0.022	42.8
+a_CLL271_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	43	0	0	27	69	106330466	106330424	3e-013	78.8
+a_CLL271_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	36	0	0	34	69	106330058	106330023	2e-009	66.2
+a_CLL271_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.30	37	1	0	33	69	106331652	106331616	2e-008	62.6
+a_CLL271_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.11	36	5	0	34	69	106329442	106329407	0.022	42.8
+a_CLL271_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346832	69346813	0.92	37.4
+a_CLL271_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	20	0	0	34	53	18342914	18342895	0.92	37.4
+b_JVM-2_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346900	69346881	0.92	37.4
+b_JVM-2_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	19	0	0	20	38	17560948	17560930	3.2	35.6
+c_MO2058_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	34	0	0	34	67	527012	526979	2e-008	62.6
+c_MO2058_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	34	0	0	34	67	527413	527380	2e-008	62.6
+c_MO2058_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.06	34	1	0	34	67	528605	528572	1e-006	57.2
+c_MO2058_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	85.29	34	5	0	34	67	526396	526363	0.26	39.2
+c_MO2058_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	34	0	0	34	67	106330055	106330022	2e-008	62.6
+c_MO2058_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	34	0	0	34	67	106330456	106330423	2e-008	62.6
+c_MO2058_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.06	34	1	0	34	67	106331648	106331615	1e-006	57.2
+c_MO2058_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	85.29	34	5	0	34	67	106329439	106329406	0.26	39.2
+c_MO2058_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346834	69346815	0.92	37.4
+c_MO2058_positive	Homo sapiens chromosome 7, GRCh37.p13 Primary Assembly	83.33	36	4	1	30	65	48146706	48146739	3.2	35.6
+d_91-87_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346895	69346876	0.92	37.4
+d_90-128_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	93.10	29	1	1	1	28	69346890	69346862	0.076	41.0
+d_89-92_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346886	69346867	0.92	37.4
+d_90-126_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346877	69346858	0.92	37.4
+d_91-63_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346856	69346837	0.92	37.4
+e_case_20_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346906	69346887	0.92	37.4
+e_case_20_positive	Homo sapiens chromosome 22, GRCh37.p13 Primary Assembly	100.00	19	0	0	18	36	49433666	49433648	3.2	35.6
+e_case_20_positive	Homo sapiens chromosome 20, GRCh37.p13 Primary Assembly	91.67	24	2	0	15	38	39147473	39147450	3.2	35.6
+e_case_20_positive	Homo sapiens chromosome 2, GRCh37.p13 Primary Assembly	100.00	19	0	0	11	29	9833743	9833725	3.2	35.6
+e_case_4_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346854	69346835	0.92	37.4
+e_case_25_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346840	69346821	0.92	37.4
+e_case_25_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	95.45	22	1	0	9	30	134722102	134722123	3.2	35.6
+e_case_25_positive	Homo sapiens chromosome 10, GRCh37.p13 Primary Assembly	100.00	20	0	0	18	37	122677112	122677093	0.92	37.4
+e_case_25_positive	Homo sapiens chromosome X, GRCh37.p13 Primary Assembly	95.45	22	1	0	14	35	130083804	130083825	3.2	35.6
+e_case_25_positive	Homo sapiens chromosome 7, GRCh37.p13 Primary Assembly	92.31	26	1	1	10	34	105483921	105483896	3.2	35.6
+e_case_25_positive	Homo sapiens chromosome 7, GRCh37.p13 Primary Assembly	100.00	19	0	0	14	32	132802442	132802424	3.2	35.6
+e_case_27_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	36	0	0	55	90	526422	526387	2e-009	66.2
+e_case_27_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	36	0	0	55	90	106329465	106329430	2e-009	66.2
+e_case_27_positive	Homo sapiens chromosome 7, GRCh37.p13 Primary Assembly	100.00	20	0	0	68	87	51330345	51330364	0.92	37.4
+e_case_27_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	95.65	23	1	0	1	23	69346833	69346811	0.92	37.4
+e_case_27_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	19	0	0	53	71	95515370	95515388	3.2	35.6
+e_case_27_positive	Homo sapiens chromosome 10, GRCh37.p13 Primary Assembly	95.65	23	1	0	55	77	33935935	33935957	0.92	37.4
+e_case_27_positive	Homo sapiens chromosome 8, GRCh37.p13 Primary Assembly	89.66	29	2	1	45	73	96049808	96049781	3.2	35.6
+g_case_1_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346898	69346879	0.92	37.4
+g_case_2_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346834	69346815	0.92	37.4
+g_case_3_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	22	0	0	1	22	69346847	69346826	0.076	41.0
+g_case_3_positive	Homo sapiens chromosome 3, GRCh37.p13 Primary Assembly	87.88	33	2	2	18	48	35648188	35648156	3.2	35.6
+g_case_3_positive	Homo sapiens chromosome 16, GRCh37.p13 Primary Assembly	91.67	24	2	0	22	45	62521111	62521088	3.2	35.6
+g_case_4_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346883	69346864	0.92	37.4
+g_case_6_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	21	0	0	27	47	527028	527008	0.26	39.2
+g_case_6_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	21	0	0	27	47	106330071	106330051	0.26	39.2
+g_case_6_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346887	69346868	0.92	37.4
+g_case_8_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	21	0	0	1	21	69346847	69346827	0.26	39.2
+g_case_8_positive	Homo sapiens chromosome 20, GRCh37.p13 Primary Assembly	91.67	24	2	0	36	59	33477066	33477043	3.2	35.6
+g_case_9_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346877	69346858	0.92	37.4
+g_case_10_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346839	69346820	0.92	37.4
+g_case_11_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	22	0	0	1	22	69346847	69346826	0.076	41.0
+g_case_12_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346892	69346873	0.92	37.4
+g_case_13_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346879	69346860	0.92	37.4
+g_case_14_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	22	0	0	28	49	527029	527008	0.076	41.0
+g_case_14_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	22	0	0	28	49	106330072	106330051	0.076	41.0
+g_case_14_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346887	69346868	0.92	37.4
+i_case_1_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346842	69346823	0.92	37.4
+i_case_6_positive	Homo sapiens chromosome 6, GRCh37.p13 Primary Assembly	92.59	27	2	0	23	49	34209312	34209286	0.076	41.0
+i_case_6_positive	Homo sapiens chromosome 4, GRCh37.p13 Primary Assembly	93.10	29	0	2	24	51	73924554	73924581	0.92	37.4
+i_case_6_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346886	69346867	0.92	37.4
+i_case_6_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	19	0	0	35	53	527424	527406	3.2	35.6
+i_case_6_positive	Homo sapiens chromosome 20, GRCh37.p13 Primary Assembly	95.45	22	1	0	27	48	25154346	25154325	3.2	35.6
+i_case_6_positive	Homo sapiens chromosome 18, GRCh37.p13 Primary Assembly	86.21	29	4	0	24	52	28541246	28541218	3.2	35.6
+i_case_6_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	19	0	0	35	53	106330467	106330449	3.2	35.6
+i_case_17_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346901	69346882	0.92	37.4
+i_case_22_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346845	69346826	0.92	37.4
+i_case_23_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346883	69346864	0.92	37.4
+i_case_24_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346910	69346891	0.92	37.4
+i_case_29_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346835	69346816	0.92	37.4
+i_case_P4_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.59	27	2	0	29	55	527032	527006	0.076	41.0
+i_case_P4_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.59	27	2	0	29	55	106330075	106330049	0.076	41.0
+i_case_P4_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346806	69346787	0.92	37.4
+i_case_P4_positive	Homo sapiens chromosome 9, GRCh37.p13 Primary Assembly	89.29	28	1	1	2	29	139555742	139555767	3.2	35.6
+j_1404_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346881	69346862	0.92	37.4
+j_1406_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	23	0	0	44	66	527029	527007	0.022	42.8
+j_1406_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	23	0	0	44	66	106330072	106330050	0.022	42.8
+j_1406_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346908	69346889	0.92	37.4
+j_1406_positive	Homo sapiens chromosome X, GRCh37.p13 Primary Assembly	88.89	27	3	0	19	45	11615394	11615420	3.2	35.6
+j_1406_positive	Homo sapiens chromosome 6 genomic contig, GRCh37.p13 alternate locus group ALT_REF_LOCI_4	88.89	27	3	0	26	52	879401	879427	3.2	35.6
+j_1406_positive	Homo sapiens chromosome 6 genomic contig, GRCh37.p13 alternate locus group ALT_REF_LOCI_1	88.89	27	3	0	26	52	879919	879945	3.2	35.6
+j_1407_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346889	69346870	0.92	37.4
+j_1407_positive	Homo sapiens chromosome 20, GRCh37.p13 Primary Assembly	88.89	27	3	0	5	31	33667302	33667276	3.2	35.6
+j_1408/1434_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346893	69346874	0.92	37.4
+j_1411/1430_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	21	0	0	24	44	527428	527408	0.26	39.2
+j_1411/1430_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	21	0	0	24	44	106330471	106330451	0.26	39.2
+j_1411/1430_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346877	69346858	0.92	37.4
+j_1411/1430_positive	Homo sapiens chromosome 2, GRCh37.p13 Primary Assembly	95.45	22	1	0	16	37	66469092	66469071	3.2	35.6
+j_1413/1432_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346877	69346858	0.92	37.4
+j_3052_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346856	69346837	0.92	37.4
+j_3052_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	19	0	0	33	51	527025	527007	3.2	35.6
+j_3052_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	19	0	0	33	51	106330068	106330050	3.2	35.6
+k_degan_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	38	0	0	28	65	527417	527380	2e-010	69.8
+k_degan_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	37	0	0	29	65	527015	526979	5e-010	68.0
+k_degan_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	95.24	42	2	0	24	65	528613	528572	5e-010	68.0
+k_degan_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.49	37	5	0	29	65	526399	526363	0.006	44.6
+k_degan_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	38	0	0	28	65	106330460	106330423	2e-010	69.8
+k_degan_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	37	0	0	29	65	106330058	106330022	5e-010	68.0
+k_degan_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	95.24	42	2	0	24	65	106331656	106331615	5e-010	68.0
+k_degan_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.49	37	5	0	29	65	106329442	106329406	0.006	44.6
+k_degan_positive	Homo sapiens chromosome 8, GRCh37.p13 Primary Assembly	95.83	24	1	0	3	26	142071966	142071989	0.26	39.2
+k_degan_positive	Homo sapiens chromosome 6, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	161973013	161973032	0.92	37.4
+k_degan_positive	Homo sapiens chromosome 6, GRCh37.p13 Primary Assembly	86.21	29	4	0	10	38	73621393	73621421	3.2	35.6
+k_degan_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346262	69346243	0.92	37.4
+k_degan_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	20	0	0	29	48	18342914	18342895	0.92	37.4
+k_degan_positive	Homo sapiens chromosome 16, GRCh37.p13 Primary Assembly	100.00	19	0	0	23	41	26866422	26866440	3.2	35.6
+k_degan_positive	Homo sapiens chromosome 15, GRCh37.p13 Primary Assembly	100.00	19	0	0	1	19	66997241	66997259	3.2	35.6
+k_degan_positive	Homo sapiens chromosome 12, GRCh37.p13 Primary Assembly	86.21	29	4	0	10	38	90776634	90776606	3.2	35.6
+l_1_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	36	0	0	32	67	527014	526979	2e-009	66.2
+l_1_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.44	39	1	0	29	67	527418	527380	2e-009	66.2
+l_1_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.22	36	1	0	32	67	528607	528572	8e-008	60.8
+l_1_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.11	36	5	0	32	67	526398	526363	0.022	42.8
+l_1_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	36	0	0	32	67	106330057	106330022	2e-009	66.2
+l_1_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.44	39	1	0	29	67	106330461	106330423	2e-009	66.2
+l_1_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.22	36	1	0	32	67	106331650	106331615	8e-008	60.8
+l_1_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.11	36	5	0	32	67	106329441	106329406	0.022	42.8
+l_1_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	19	0	0	32	50	18342913	18342895	3.2	35.6
+l_3_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	51	0	0	32	82	527029	526979	1e-017	93.3
+l_3_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.33	45	3	0	38	82	527424	527380	5e-010	68.0
+l_3_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	91.11	45	4	0	38	82	528616	528572	7e-009	64.4
+l_3_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.49	37	5	0	46	82	526399	526363	0.006	44.6
+l_3_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	51	0	0	32	82	106330072	106330022	1e-017	93.3
+l_3_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.33	45	3	0	38	82	106330467	106330423	5e-010	68.0
+l_3_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	91.11	45	4	0	38	82	106331659	106331615	7e-009	64.4
+l_3_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.49	37	5	0	46	82	106329442	106329406	0.006	44.6
+l_3_positive	Homo sapiens chromosome 4, GRCh37.p13 Primary Assembly	92.00	25	2	0	33	57	186760609	186760585	0.92	37.4
+l_3_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346899	69346880	0.92	37.4
+l_3_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	95.65	23	1	0	43	65	18342917	18342895	0.92	37.4
+l_3_positive	Homo sapiens chromosome Y, GRCh37.p13 Primary Assembly	91.67	24	2	0	44	67	17580304	17580327	3.2	35.6
+l_3_positive	Homo sapiens chromosome X, GRCh37.p13 Primary Assembly	100.00	19	0	0	5	23	68615804	68615786	3.2	35.6
+l_4_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.59	54	4	0	23	76	526416	526363	9e-014	80.6
+l_4_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	39	76	527789	527752	3e-006	55.4
+l_4_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	40	76	527015	526979	1e-004	50.0
+l_4_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	40	76	527416	527380	1e-004	50.0
+l_4_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	40	76	528608	528572	1e-004	50.0
+l_4_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.59	54	4	0	23	76	106329459	106329406	9e-014	80.6
+l_4_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	39	76	106330832	106330795	3e-006	55.4
+l_4_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	40	76	106330058	106330022	1e-004	50.0
+l_4_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	40	76	106330459	106330423	1e-004	50.0
+l_4_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	40	76	106331651	106331615	1e-004	50.0
+l_4_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346897	69346878	0.92	37.4
+l_5_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.33	60	4	0	35	94	526422	526363	5e-017	91.5
+l_5_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	57	94	527789	527752	3e-006	55.4
+l_5_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	58	94	527015	526979	1e-004	50.0
+l_5_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	58	94	527416	527380	1e-004	50.0
+l_5_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	58	94	528608	528572	1e-004	50.0
+l_5_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.33	60	4	0	35	94	106329465	106329406	5e-017	91.5
+l_5_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	57	94	106330832	106330795	3e-006	55.4
+l_5_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	58	94	106330058	106330022	1e-004	50.0
+l_5_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	58	94	106330459	106330423	1e-004	50.0
+l_5_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	58	94	106331651	106331615	1e-004	50.0
+l_5_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346893	69346874	0.92	37.4
+l_6_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	98.04	51	1	0	29	79	526413	526363	6e-016	87.8
+l_6_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	83.08	65	10	1	16	79	527444	527380	7e-009	64.4
+l_6_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	42	79	527789	527752	3e-006	55.4
+l_6_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	43	79	527015	526979	1e-004	50.0
+l_6_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	43	79	528608	528572	1e-004	50.0
+l_6_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	98.04	51	1	0	29	79	106329456	106329406	6e-016	87.8
+l_6_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	83.08	65	10	1	16	79	106330487	106330423	7e-009	64.4
+l_6_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	42	79	106330832	106330795	3e-006	55.4
+l_6_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	43	79	106330058	106330022	1e-004	50.0
+l_6_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	43	79	106331651	106331615	1e-004	50.0
+l_6_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346893	69346874	0.92	37.4
+l_7_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.78	45	1	0	30	74	526407	526363	1e-012	77.0
+l_7_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	37	74	527789	527752	3e-006	55.4
+l_7_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	38	74	527015	526979	1e-004	50.0
+l_7_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	38	74	527416	527380	1e-004	50.0
+l_7_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	38	74	528608	528572	1e-004	50.0
+l_7_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.78	45	1	0	30	74	106329450	106329406	1e-012	77.0
+l_7_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	37	74	106330832	106330795	3e-006	55.4
+l_7_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	38	74	106330058	106330022	1e-004	50.0
+l_7_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	38	74	106330459	106330423	1e-004	50.0
+l_7_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	38	74	106331651	106331615	1e-004	50.0
+l_7_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346887	69346868	0.92	37.4
+l_7_positive	Homo sapiens chromosome 5, GRCh37.p13 Primary Assembly	87.10	31	3	1	2	31	148892818	148892848	3.2	35.6
+l_8_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	45	0	0	35	79	527424	527380	2e-014	82.4
+l_8_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.33	45	3	0	35	79	527023	526979	5e-010	68.0
+l_8_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.37	38	1	0	42	79	528609	528572	7e-009	64.4
+l_8_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.49	37	5	0	43	79	526399	526363	0.006	44.6
+l_8_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	45	0	0	35	79	106330467	106330423	2e-014	82.4
+l_8_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.33	45	3	0	35	79	106330066	106330022	5e-010	68.0
+l_8_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.37	38	1	0	42	79	106331652	106331615	7e-009	64.4
+l_8_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.49	37	5	0	43	79	106329442	106329406	0.006	44.6
+l_8_positive	Homo sapiens chromosome 6, GRCh37.p13 Primary Assembly	92.59	27	2	0	23	49	34209312	34209286	0.076	41.0
+l_8_positive	Homo sapiens chromosome 4, GRCh37.p13 Primary Assembly	93.10	29	0	2	24	51	73924554	73924581	0.92	37.4
+l_8_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346886	69346867	0.92	37.4
+l_8_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	20	0	0	43	62	18342914	18342895	0.92	37.4
+l_8_positive	Homo sapiens chromosome 20, GRCh37.p13 Primary Assembly	95.45	22	1	0	27	48	25154346	25154325	3.2	35.6
+l_8_positive	Homo sapiens chromosome 18, GRCh37.p13 Primary Assembly	86.21	29	4	0	24	52	28541246	28541218	3.2	35.6
+l_9_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.44	61	4	0	28	88	526423	526363	1e-017	93.3
+l_9_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	51	88	527789	527752	3e-006	55.4
+l_9_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	52	88	527015	526979	1e-004	50.0
+l_9_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	52	88	527416	527380	1e-004	50.0
+l_9_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	52	88	528608	528572	1e-004	50.0
+l_9_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.44	61	4	0	28	88	106329466	106329406	1e-017	93.3
+l_9_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	51	88	106330832	106330795	3e-006	55.4
+l_9_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	52	88	106330058	106330022	1e-004	50.0
+l_9_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	52	88	106330459	106330423	1e-004	50.0
+l_9_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	52	88	106331651	106331615	1e-004	50.0
+l_9_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346883	69346864	0.92	37.4
+l_10_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	39	0	0	25	63	527418	527380	4e-011	71.6
+l_10_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	37	0	0	27	63	527015	526979	5e-010	68.0
+l_10_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.37	38	1	0	26	63	528609	528572	7e-009	64.4
+l_10_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.49	37	5	0	27	63	526399	526363	0.006	44.6
+l_10_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	39	0	0	25	63	106330461	106330423	4e-011	71.6
+l_10_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	37	0	0	27	63	106330058	106330022	5e-010	68.0
+l_10_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.37	38	1	0	26	63	106331652	106331615	7e-009	64.4
+l_10_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.49	37	5	0	27	63	106329442	106329406	0.006	44.6
+l_10_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346883	69346864	0.92	37.4
+l_10_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	20	0	0	27	46	18342914	18342895	0.92	37.4
+l_11_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	44	0	0	25	68	527423	527380	9e-014	80.6
+l_11_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	37	0	0	32	68	527015	526979	5e-010	68.0
+l_11_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.37	38	1	0	31	68	528609	528572	7e-009	64.4
+l_11_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	82.61	46	8	0	23	68	526408	526363	5e-004	48.2
+l_11_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	44	0	0	25	68	106330466	106330423	9e-014	80.6
+l_11_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	37	0	0	32	68	106330058	106330022	5e-010	68.0
+l_11_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.37	38	1	0	31	68	106331652	106331615	7e-009	64.4
+l_11_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	82.61	46	8	0	23	68	106329451	106329406	5e-004	48.2
+l_11_positive	Homo sapiens chromosome 7, GRCh37.p13 Primary Assembly	81.58	38	7	0	14	51	150772625	150772662	0.92	37.4
+l_11_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346880	69346861	0.92	37.4
+l_11_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	20	0	0	32	51	18342914	18342895	0.92	37.4
+l_12_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	44	0	0	24	67	527423	527380	9e-014	80.6
+l_12_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	37	0	0	31	67	527015	526979	5e-010	68.0
+l_12_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.37	38	1	0	30	67	528609	528572	7e-009	64.4
+l_12_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	82.22	45	8	0	23	67	526407	526363	0.002	46.4
+l_12_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	44	0	0	24	67	106330466	106330423	9e-014	80.6
+l_12_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	37	0	0	31	67	106330058	106330022	5e-010	68.0
+l_12_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.37	38	1	0	30	67	106331652	106331615	7e-009	64.4
+l_12_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	82.22	45	8	0	23	67	106329450	106329406	0.002	46.4
+l_12_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346879	69346860	0.92	37.4
+l_12_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	20	0	0	31	50	18342914	18342895	0.92	37.4
+l_12_positive	Homo sapiens chromosome 3, GRCh37.p13 Primary Assembly	100.00	19	0	0	7	25	118420668	118420686	3.2	35.6
+l_13_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	50	0	0	36	85	527801	527752	5e-017	91.5
+l_13_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	50	0	0	36	85	106330844	106330795	5e-017	91.5
+l_13_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346877	69346858	0.92	37.4
+l_13_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	85.29	34	4	1	37	69	151516251	151516218	3.2	35.6
+l_13_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	19	0	0	55	73	225203891	225203873	3.2	35.6
+l_14_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.65	63	4	0	30	92	526425	526363	1e-018	96.9
+l_14_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	55	92	527789	527752	3e-006	55.4
+l_14_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	56	92	527015	526979	1e-004	50.0
+l_14_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	56	92	527416	527380	1e-004	50.0
+l_14_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	56	92	528608	528572	1e-004	50.0
+l_14_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.65	63	4	0	30	92	106329468	106329406	1e-018	96.9
+l_14_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	55	92	106330832	106330795	3e-006	55.4
+l_14_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	56	92	106330058	106330022	1e-004	50.0
+l_14_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	56	92	106330459	106330423	1e-004	50.0
+l_14_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	56	92	106331651	106331615	1e-004	50.0
+l_14_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346875	69346856	0.92	37.4
+l_15_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	49	0	0	25	73	527027	526979	2e-016	89.7
+l_15_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.33	45	3	0	29	73	527424	527380	5e-010	68.0
+l_15_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	91.11	45	4	0	29	73	528616	528572	7e-009	64.4
+l_15_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.49	37	5	0	37	73	526399	526363	0.006	44.6
+l_15_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	49	0	0	25	73	106330070	106330022	2e-016	89.7
+l_15_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.33	45	3	0	29	73	106330467	106330423	5e-010	68.0
+l_15_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	91.11	45	4	0	29	73	106331659	106331615	7e-009	64.4
+l_15_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.49	37	5	0	37	73	106329442	106329406	0.006	44.6
+l_15_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	95.83	24	0	1	6	28	51337111	51337134	3.2	35.6
+l_15_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346858	69346839	0.92	37.4
+l_15_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	95.65	23	1	0	34	56	18342917	18342895	0.92	37.4
+l_15_positive	Homo sapiens chromosome Y, GRCh37.p13 Primary Assembly	91.67	24	2	0	35	58	17580304	17580327	3.2	35.6
+l_15_positive	Homo sapiens chromosome 4, GRCh37.p13 Primary Assembly	91.67	24	2	0	25	48	186760608	186760585	3.2	35.6
+l_16_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	42	0	0	30	71	527421	527380	1e-012	77.0
+l_16_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	95.35	43	2	0	29	71	527021	526979	2e-010	69.8
+l_16_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.37	38	1	0	34	71	528609	528572	7e-009	64.4
+l_16_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.49	37	5	0	35	71	526399	526363	0.006	44.6
+l_16_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	42	0	0	30	71	106330464	106330423	1e-012	77.0
+l_16_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	95.35	43	2	0	29	71	106330064	106330022	2e-010	69.8
+l_16_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.37	38	1	0	34	71	106331652	106331615	7e-009	64.4
+l_16_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.49	37	5	0	35	71	106329442	106329406	0.006	44.6
+l_16_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346846	69346827	0.92	37.4
+l_16_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	100.00	20	0	0	35	54	18342914	18342895	0.92	37.4
+l_17_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	52	0	0	26	77	527030	526979	4e-018	95.1
+l_17_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.33	45	3	0	33	77	527424	527380	5e-010	68.0
+l_17_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	91.11	45	4	0	33	77	528616	528572	7e-009	64.4
+l_17_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.49	37	5	0	41	77	526399	526363	0.006	44.6
+l_17_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	52	0	0	26	77	106330073	106330022	4e-018	95.1
+l_17_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.33	45	3	0	33	77	106330467	106330423	5e-010	68.0
+l_17_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	91.11	45	4	0	33	77	106331659	106331615	7e-009	64.4
+l_17_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.49	37	5	0	41	77	106329442	106329406	0.006	44.6
+l_17_positive	Homo sapiens chromosome 4, GRCh37.p13 Primary Assembly	92.00	25	2	0	28	52	186760609	186760585	0.92	37.4
+l_17_positive	Homo sapiens chromosome 2, GRCh37.p13 Primary Assembly	100.00	20	0	0	14	33	116567342	116567361	0.92	37.4
+l_17_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346844	69346825	0.92	37.4
+l_17_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	95.65	23	1	0	38	60	18342917	18342895	0.92	37.4
+l_17_positive	Homo sapiens chromosome Y, GRCh37.p13 Primary Assembly	91.67	24	2	0	39	62	17580304	17580327	3.2	35.6
+l_18_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.98	57	4	0	29	85	526419	526363	2e-015	86.0
+l_18_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	48	85	527789	527752	3e-006	55.4
+l_18_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	49	85	527015	526979	1e-004	50.0
+l_18_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	49	85	527416	527380	1e-004	50.0
+l_18_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	49	85	528608	528572	1e-004	50.0
+l_18_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.98	57	4	0	29	85	106329462	106329406	2e-015	86.0
+l_18_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	48	85	106330832	106330795	3e-006	55.4
+l_18_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	49	85	106330058	106330022	1e-004	50.0
+l_18_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	49	85	106330459	106330423	1e-004	50.0
+l_18_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	49	85	106331651	106331615	1e-004	50.0
+l_18_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	21	0	0	1	21	69346842	69346822	0.26	39.2
+l_19_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	90.28	72	6	1	21	92	526433	526363	4e-018	95.1
+l_19_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	55	92	527789	527752	3e-006	55.4
+l_19_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	56	92	527015	526979	1e-004	50.0
+l_19_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	56	92	527416	527380	1e-004	50.0
+l_19_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	56	92	528608	528572	1e-004	50.0
+l_19_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	90.28	72	6	1	21	92	106329476	106329406	4e-018	95.1
+l_19_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	55	92	106330832	106330795	3e-006	55.4
+l_19_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	56	92	106330058	106330022	1e-004	50.0
+l_19_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	56	92	106330459	106330423	1e-004	50.0
+l_19_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	56	92	106331651	106331615	1e-004	50.0
+l_19_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346838	69346819	0.92	37.4
+l_19_positive	Homo sapiens chromosome 17, GRCh37.p13 Primary Assembly	87.10	31	3	1	3	33	39772499	39772470	3.2	35.6
+l_20_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.44	61	4	0	43	103	526423	526363	1e-017	93.3
+l_20_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.11	38	3	0	66	103	527789	527752	3e-006	55.4
+l_20_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	67	103	527015	526979	1e-004	50.0
+l_20_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	67	103	527416	527380	1e-004	50.0
+l_20_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	89.19	37	4	0	67	103	528608	528572	1e-004	50.0
+l_20_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.44	61	4	0	43	103	106329466	106329406	1e-017	93.3
+l_20_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.11	38	3	0	66	103	106330832	106330795	3e-006	55.4
+l_20_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	67	103	106330058	106330022	1e-004	50.0
+l_20_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	67	103	106330459	106330423	1e-004	50.0
+l_20_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	89.19	37	4	0	67	103	106331651	106331615	1e-004	50.0
+l_20_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346837	69346818	0.92	37.4
+l_21_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	35	0	0	35	69	527013	526979	7e-009	64.4
+l_21_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	35	0	0	35	69	527414	527380	7e-009	64.4
+l_21_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	97.14	35	1	0	35	69	528606	528572	3e-007	59.0
+l_21_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	85.71	35	5	0	35	69	526397	526363	0.076	41.0
+l_21_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	35	0	0	35	69	106330056	106330022	7e-009	64.4
+l_21_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	35	0	0	35	69	106330457	106330423	7e-009	64.4
+l_21_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	97.14	35	1	0	35	69	106331649	106331615	3e-007	59.0
+l_21_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	85.71	35	5	0	35	69	106329440	106329406	0.076	41.0
+l_21_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346835	69346816	0.92	37.4
+l_21_positive	Homo sapiens chromosome 7, GRCh37.p13 Primary Assembly	92.31	26	0	1	26	51	154373090	154373113	3.2	35.6
+l_22_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	98.15	54	1	0	29	82	527032	526979	1e-017	93.3
+l_22_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	93.33	45	3	0	38	82	527424	527380	5e-010	68.0
+l_22_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	91.11	45	4	0	38	82	528616	528572	7e-009	64.4
+l_22_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	86.49	37	5	0	46	82	526399	526363	0.006	44.6
+l_22_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	98.15	54	1	0	29	82	106330075	106330022	1e-017	93.3
+l_22_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	93.33	45	3	0	38	82	106330467	106330423	5e-010	68.0
+l_22_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	91.11	45	4	0	38	82	106331659	106331615	7e-009	64.4
+l_22_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	86.49	37	5	0	46	82	106329442	106329406	0.006	44.6
+l_22_positive	Homo sapiens chromosome 4, GRCh37.p13 Primary Assembly	92.00	25	2	0	33	57	186760609	186760585	0.92	37.4
+l_22_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346806	69346787	0.92	37.4
+l_22_positive	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	95.65	23	1	0	43	65	18342917	18342895	0.92	37.4
+l_22_positive	Homo sapiens chromosome Y, GRCh37.p13 Primary Assembly	91.67	24	2	0	44	67	17580304	17580327	3.2	35.6
+l_22_positive	Homo sapiens chromosome 9, GRCh37.p13 Primary Assembly	89.29	28	1	1	2	29	139555742	139555767	3.2	35.6
+l_23_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	92.50	40	3	0	13	52	527018	526979	3e-007	59.0
+l_23_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	32	0	0	21	52	527411	527380	3e-007	59.0
+l_23_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	96.88	32	1	0	21	52	528603	528572	1e-005	53.6
+l_23_positive	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	88.89	27	3	0	26	52	526389	526363	3.2	35.6
+l_23_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	92.50	40	3	0	13	52	106330061	106330022	3e-007	59.0
+l_23_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	32	0	0	21	52	106330454	106330423	3e-007	59.0
+l_23_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	96.88	32	1	0	21	52	106331646	106331615	1e-005	53.6
+l_23_positive	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	88.89	27	3	0	26	52	106329432	106329406	3.2	35.6
+l_23_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	95.65	23	1	0	1	23	69346776	69346754	0.92	37.4
+l_1_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	96.77	31	1	0	48	78	551715	551745	4e-005	51.8
+l_1_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	96.77	31	1	0	48	78	106354406	106354436	4e-005	51.8
+l_1_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346858	69346877	0.92	37.4
+l_1_negative	Homo sapiens chromosome 2, GRCh37.p13 Primary Assembly	100.00	19	0	0	57	75	85303313	85303331	3.2	35.6
+l_2_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346855	69346874	0.92	37.4
+l_3_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346859	69346878	0.92	37.4
+l_3_negative	Homo sapiens chromosome 9, GRCh37.p13 Primary Assembly	100.00	19	0	0	38	56	13600892	13600910	3.2	35.6
+l_4_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	29	0	0	25	53	579995	580023	1e-005	53.6
+l_4_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	29	0	0	25	53	106382687	106382715	1e-005	53.6
+l_4_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346858	69346877	0.92	37.4
+l_4_negative	Homo sapiens chromosome 3, GRCh37.p13 Primary Assembly	95.83	24	0	1	23	46	187874520	187874498	3.2	35.6
+l_5_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346857	69346876	0.92	37.4
+l_5_negative	Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly	95.45	22	1	0	11	32	16086974	16086953	3.2	35.6
+l_6_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	23	0	0	33	55	567856	567878	0.022	42.8
+l_6_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	23	0	0	33	55	106370547	106370569	0.022	42.8
+l_6_negative	Homo sapiens chromosome 8, GRCh37.p13 Primary Assembly	86.67	30	4	0	25	54	76159290	76159261	0.92	37.4
+l_6_negative	Homo sapiens chromosome 2, GRCh37.p13 Primary Assembly	84.85	33	5	0	22	54	22245848	22245880	0.92	37.4
+l_6_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346864	69346883	0.92	37.4
+l_6_negative	Homo sapiens chromosome 6, GRCh37.p13 Primary Assembly	91.67	24	2	0	3	26	147993671	147993648	3.2	35.6
+l_7_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	28	0	0	31	58	567851	567878	4e-005	51.8
+l_7_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	28	0	0	31	58	106370542	106370569	4e-005	51.8
+l_7_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	22	0	0	1	22	69346852	69346873	0.076	41.0
+l_7_negative	Homo sapiens chromosome 3, GRCh37.p13 Primary Assembly	90.00	30	2	1	22	50	173366102	173366131	0.92	37.4
+l_7_negative	Homo sapiens chromosome X, GRCh37.p13 Primary Assembly	91.67	24	2	0	30	53	66507005	66507028	3.2	35.6
+l_7_negative	Homo sapiens chromosome 6, GRCh37.p13 Primary Assembly	100.00	19	0	0	8	26	124631280	124631298	3.2	35.6
+l_8_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	28	0	0	24	51	549201	549228	4e-005	51.8
+l_8_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	28	0	0	24	51	106351892	106351919	4e-005	51.8
+l_8_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346838	69346857	0.92	37.4
+l_9_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346838	69346857	0.92	37.4
+l_10_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346818	69346837	0.92	37.4
+l_10_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	19	0	0	35	53	577538	577556	3.2	35.6
+l_10_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	19	0	0	35	53	106380230	106380248	3.2	35.6
+l_11_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	26	0	0	66	91	567851	567876	5e-004	48.2
+l_11_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	26	0	0	66	91	106370542	106370567	5e-004	48.2
+l_11_negative	Homo sapiens chromosome 3, GRCh37.p13 Primary Assembly	95.65	23	1	0	63	85	173366109	173366131	0.92	37.4
+l_11_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346857	69346876	0.92	37.4
+l_11_negative	Homo sapiens chromosome X, GRCh37.p13 Primary Assembly	91.67	24	2	0	65	88	66507005	66507028	3.2	35.6
+l_11_negative	Homo sapiens chromosome 12, GRCh37.p13 Primary Assembly	83.33	36	5	1	51	85	53635038	53635003	3.2	35.6
+l_12_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	20	0	0	46	65	565819	565838	0.92	37.4
+l_12_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	20	0	0	46	65	106368510	106368529	0.92	37.4
+l_12_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346827	69346846	0.92	37.4
+l_13_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	30	0	0	40	69	577527	577556	3e-006	55.4
+l_13_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	30	0	0	40	69	106380219	106380248	3e-006	55.4
+l_13_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346840	69346859	0.92	37.4
+l_14_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	28	0	0	36	63	579996	580023	4e-005	51.8
+l_14_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	28	0	0	36	63	106382688	106382715	4e-005	51.8
+l_14_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346841	69346860	0.92	37.4
+l_14_negative	Homo sapiens chromosome 3, GRCh37.p13 Primary Assembly	100.00	19	0	0	38	56	187874516	187874498	3.2	35.6
+l_14_negative	Homo sapiens chromosome 10, GRCh37.p13 Primary Assembly	95.45	22	1	0	31	52	96238363	96238342	3.2	35.6
+l_14_negative	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	95.45	22	1	0	23	44	177252127	177252148	3.2	35.6
+l_15_negative	Homo sapiens chromosome 17, GRCh37.p13 Primary Assembly	92.00	25	2	0	14	38	15853935	15853959	0.92	37.4
+l_15_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346799	69346818	0.92	37.4
+l_15_negative	Homo sapiens chromosome 4 genomic patch of type FIX, GRCh37.p13 PATCHES HG174_HG254_PATCH	95.45	22	1	0	11	32	166396	166417	3.2	35.6
+l_15_negative	Homo sapiens chromosome 9, GRCh37.p13 Primary Assembly	88.89	27	3	0	1	27	133534849	133534875	3.2	35.6
+l_15_negative	Homo sapiens chromosome 4, GRCh37.p13 Primary Assembly	95.45	22	1	0	11	32	170185	170206	3.2	35.6
+l_16_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	30	0	0	34	63	558808	558837	3e-006	55.4
+l_16_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	30	0	0	34	63	106361499	106361528	3e-006	55.4
+l_16_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346802	69346821	0.92	37.4
+l_17_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	25	0	0	50	74	577532	577556	0.002	46.4
+l_17_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	25	0	0	50	74	106380224	106380248	0.002	46.4
+l_17_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346802	69346821	0.92	37.4
+l_17_negative	Homo sapiens chromosome 1, GRCh37.p13 Primary Assembly	87.10	31	3	1	16	45	167508069	167508039	3.2	35.6
+l_18_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	29	0	0	25	53	567850	567878	1e-005	53.6
+l_18_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	29	0	0	25	53	106370541	106370569	1e-005	53.6
+l_18_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346800	69346819	0.92	37.4
+l_19_negative	Homo sapiens chromosome 14 genomic patch of type FIX, GRCh37.p13 PATCHES HG1592_PATCH	100.00	29	0	0	20	48	579995	580023	1e-005	53.6
+l_19_negative	Homo sapiens chromosome 14, GRCh37.p13 Primary Assembly	100.00	29	0	0	20	48	106382687	106382715	1e-005	53.6
+l_19_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346801	69346820	0.92	37.4
+l_19_negative	Homo sapiens chromosome 3, GRCh37.p13 Primary Assembly	100.00	19	0	0	23	41	187874516	187874498	3.2	35.6
+l_20_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346797	69346816	0.92	37.4
+l_21_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	21	0	0	1	21	69346794	69346814	0.26	39.2
+l_21_negative	Homo sapiens chromosome 8, GRCh37.p13 Primary Assembly	100.00	19	0	0	4	22	49670588	49670606	3.2	35.6
+l_21_negative	Homo sapiens chromosome 12, GRCh37.p13 Primary Assembly	100.00	19	0	0	5	23	123521389	123521407	3.2	35.6
+l_22_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346795	69346814	0.92	37.4
+l_22_negative	Homo sapiens chromosome 8, GRCh37.p13 Primary Assembly	100.00	19	0	0	3	21	49670588	49670606	3.2	35.6
+l_22_negative	Homo sapiens chromosome 12, GRCh37.p13 Primary Assembly	100.00	19	0	0	4	22	123521389	123521407	3.2	35.6
+l_23_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	21	0	0	1	21	69346785	69346805	0.26	39.2
+l_23_negative	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	91.67	24	2	0	13	36	4474180	4474203	3.2	35.6
+l_23_negative	Homo sapiens chromosome 9, GRCh37.p13 Primary Assembly	95.45	22	1	0	1	22	139555762	139555741	3.2	35.6
+l_23_negative	Homo sapiens chromosome 3, GRCh37.p13 Primary Assembly	100.00	19	0	0	1	19	16073448	16073466	3.2	35.6
+m_48_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346896	69346877	0.92	37.4
+m_113_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346896	69346877	0.92	37.4
+m_185_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346893	69346874	0.92	37.4
+m_72_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346889	69346870	0.92	37.4
+m_30_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346888	69346869	0.92	37.4
+m_183_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346882	69346863	0.92	37.4
+m_216_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346880	69346861	0.92	37.4
+m_32_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346874	69346855	0.92	37.4
+m_27_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346847	69346828	0.92	37.4
+m_41_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69346832	69346813	0.92	37.4
+m_28_positive	Homo sapiens chromosome 11, GRCh37.p13 Primary Assembly	100.00	20	0	0	1	20	69373699	69373680	0.92	37.4
